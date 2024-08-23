@@ -5,7 +5,7 @@
 }
 
 .cabeçalho {
-    background-color: #013004;
+    background-color: #002403;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -90,7 +90,7 @@
 }
 
 .equipe {
-    background-color: #055005db;
+    background-color: #013004db;
     color: white;
 }
 
@@ -117,7 +117,7 @@
 }
 
 .rodapé{
-    background-color: #013004;
+    background-color: #002403;
     color: #ffffff;
     font-size: 20px;
     display: flex;
