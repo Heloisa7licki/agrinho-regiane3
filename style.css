@@ -5,7 +5,7 @@
 }
 
 .cabeçalho {
-    background-color: #0f321a;
+    background-color: #300301;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -13,12 +13,12 @@
 }
 
 .cabeçalho-título {
-    color: #f4efef;
+    color: #C72A2C;
     font-size: 54px;
 }
 
 .cabeçalho-lista {
-    color: rgb(243, 244, 242);
+    color: white;
     font-size: 22px;
 }
 
@@ -36,8 +36,8 @@
     margin: 0 16px;
 }
 
-.agricultura-urbana {
-    background-image: linear-gradient(#176b2b, #379c2c);
+.nossa-escola {
+    background-image: linear-gradient(#300301, #960903);
     color: white;
     display: flex;
     justify-content: center;
@@ -46,51 +46,51 @@
 
 }
 
-.agricultura-urbana-título {
+.nossa-escola-título {
     font-size: 32px;
     padding: 24px;
 }
 
-.agricultura-urbana-texto1 {
+.nossa-escola-texto1 {
     font-size: 26px;
     padding: 24px;
 }
 
-.agricultura-urbana-texto2 {
+.nossa-escola-texto2 {
     font-size: 26px;
     padding: 24px;
 }
 
-.agricultura-urbana-texto3 {
+.nossa-escola-texto3 {
     font-size: 26px;
     padding: 24px;
 }
 
-.agricultura-urbana-texto4 {
+.nossa-escola-texto4 {
     font-size: 26px;
     padding: 24px;
 }
 
-.agricultura-urbana-texto5 {
+.nossa-escola-texto5 {
     font-size: 26px;
     padding: 24px;
 }
 
-.agricultura-urbana-texto6 {
+.nossa-escola-texto6 {
     font-size: 26px;
     padding: 24px;
 }
 
-.agricultura-urbana-div {
+.nossa-escola-div {
     width: 40%;
 }
 
-.agricultura-urbana-imagem {
+.nossa-escola-imagem {
     width: 30%;
 }
 
 .equipe {
-    background-color: #073806db;
+    background-color: #cd5f05db;
     color: white;
 }
 
@@ -118,7 +118,7 @@
 
 .rodapé{
     background-color: #300301;
-    color: #1f5b09;
+    color: #960903;
     font-size: 20px;
     display: flex;
     justify-content: space-around;
