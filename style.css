@@ -37,7 +37,7 @@
     width: 120px;
 }
 
-.nossa-escola {
+.agricultura-urbana-escola {
     background-image: linear-gradient(#013004, #104205);
     color: white;
     display: flex;
@@ -46,21 +46,21 @@
     padding: 24px 0;
 }
 
-.nossa-escola-título {
+.agricultura-urbana-título {
     font-size: 32px;
     padding: 24px;
 }
 
-.nossa-escola-texto1 {
+.agricultura-urbana-texto1 {
     font-size: 26px;
     padding: 24px;
 }
 
-.nossa-escola-div {
+.agricultura-urbana-div {
     width: 40%;
 }
 
-.nossa-escola-imagem {
+.agricultura-urbana-imagem {
     width: 30%;
 }
 
