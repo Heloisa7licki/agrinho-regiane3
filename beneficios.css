@@ -2,7 +2,7 @@
     width: 120px;
 }
 
-.agricultura-urbana {
+.beneficios {
     background-image: linear-gradient(#013004, #104205);
     color: white;
     display: flex;
@@ -11,21 +11,21 @@
     padding: 24px 0;
 }
 
-.agricultura-urbana-título {
+.beneficios-título {
     font-size: 32px;
     padding: 24px;
 }
 
-.agricultura-urbana-texto1 {
+.beneficios-texto1 {
     font-size: 26px;
     padding: 24px;
 }
 
-.agricultura-urbana-div {
+.beneficios-div {
     width: 40%;
 }
 
-.agricultura-urbana-imagem {
+.beneficios-imagem {
     width: 30%;
 }
 
