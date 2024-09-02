@@ -1,0 +1,49 @@
+.cabeçalho-logotipo {
+    width: 120px;
+}
+
+.agricultura-urbana {
+    background-image: linear-gradient(#013004, #104205);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.agricultura-urbana-título {
+    font-size: 32px;
+    padding: 24px;
+}
+
+.agricultura-urbana-texto1 {
+    font-size: 26px;
+    padding: 24px;
+}
+
+.agricultura-urbana-div {
+    width: 40%;
+}
+
+.agricultura-urbana-imagem {
+    width: 30%;
+}
+
+
+.rodapé {
+    background-color: #002403;
+    color: #ffffff;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+    align-items: center;
+}
+
+.rodapé-imagem {
+    width: 70px;
+}
+
+.rodapé-ícone {
+    width: 30px;
+}
