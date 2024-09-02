@@ -2,7 +2,7 @@
     width: 120px;
 }
 
-.beneficios {
+.exemplos {
     background-image: linear-gradient(#013004, #104205);
     color: white;
     display: flex;
@@ -11,44 +11,44 @@
     padding: 24px 0;
 }
 
-.beneficios-título {
+.exemplos-título {
     font-size: 32px;
     padding: 24px;
 }
 
-.beneficios-texto1 {
+.exemplos-texto1 {
     font-size: 26px;
     padding: 24px;
 }
 
 
 
-.beneficios-texto2 {
+.exemplos-texto2 {
     font-size: 26px;
     padding: 24px;
 }
 
-.beneficios-imagem2 {
+.exemplos-imagem2 {
     width: 80%;
 }
 
 
-.beneficios-texto3 {
+.exemplos-texto3 {
     font-size: 26px;
     padding: 24px;
 }
 
-.beneficios-imagem3 {
+.exemplos-imagem3 {
     width: 80%;
 }
 
 
-.beneficios-texto4 {
+.exemplos-texto4 {
     font-size: 26px;
     padding: 24px;
 }
 
-.beneficios-imagem4 {
+.exemplos-imagem4 {
     width: 80%;
 }
 
