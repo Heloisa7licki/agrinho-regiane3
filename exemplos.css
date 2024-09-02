@@ -1,0 +1,56 @@
+.cabeçalho-logotipo {
+    width: 120px;
+}
+
+.beneficios {
+    background-image: linear-gradient(#013004, #104205);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.beneficios-título {
+    font-size: 32px;
+    padding: 24px;
+}
+
+.beneficios-texto1 {
+    font-size: 26px;
+    padding: 24px;
+}
+
+
+
+.beneficios-texto2 {
+    font-size: 26px;
+    padding: 24px;
+}
+
+.beneficios-imagem2 {
+    width: 80%;
+}
+
+
+.beneficios-texto3 {
+    font-size: 26px;
+    padding: 24px;
+}
+
+.beneficios-imagem3 {
+    width: 80%;
+}
+
+
+.beneficios-texto4 {
+    font-size: 26px;
+    padding: 24px;
+}
+
+.beneficios-imagem4 {
+    width: 80%;
+}
+
+
+
